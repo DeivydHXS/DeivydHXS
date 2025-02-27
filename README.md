@@ -12,4 +12,7 @@ Sou formado técnico em Informática pelo IFPR e atualmente estou cursando Anál
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br/>
+
 | <a href="https://github.com/deivydhxs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deivydhxs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/deivydhxs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivydhxs&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
