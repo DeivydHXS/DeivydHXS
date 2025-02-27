@@ -23,7 +23,7 @@ Me chamo Deivyd Homam Xavier Silva, tenho 22 anos e sou natural do Paraná. Sou 
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DeivydHXS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
         />
     </a>
 </p>
