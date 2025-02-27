@@ -5,9 +5,6 @@ Sou formado técnico em Informática pelo IFPR e atualmente estou cursando Anál
 🔭 Estou estudando python e django para desenvolvimento web, docker e postgresql.
 📖 Estou lendo o livro "O Programador Pragmatico" e gosto bastante de "Crafting Interpreters"
 
-
-## 🚀 Linguagens de Programação
-
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,3 +15,5 @@ Sou formado técnico em Informática pelo IFPR e atualmente estou cursando Anál
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeivydHXS&show_icons=true)
+
+<a href="https://github.com/deivydhxs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivydhxs&layout=compact&theme=buefy&hide_border=true" /></a>
